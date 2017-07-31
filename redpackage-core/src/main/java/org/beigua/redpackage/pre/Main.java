@@ -4,7 +4,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
- * Created by smzdm on 2017/7/31.
+ * Created by beigua on 2017/7/31.
  */
 public class Main {
     private final static long DEFAULT_MAX_TIME = 1 * 600 * 100;//one minute

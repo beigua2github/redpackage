@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.concurrent.BlockingQueue;
 
 /**
- * Created by smzdm on 2017/7/31.
+ * Created by beigua on 2017/7/31.
  */
 public class RedPackageProducer implements Runnable {
     private final BlockingQueue<SubRedPackage> queue;

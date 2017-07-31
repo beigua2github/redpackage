@@ -4,7 +4,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by smzdm on 2017/7/31.
+ * Created by beigua on 2017/7/31.
  */
 public class RedPackageConsumer implements Runnable {
     private String name;

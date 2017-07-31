@@ -4,7 +4,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by smzdm on 2017/7/31.
+ * Created by beigua on 2017/7/31.
  */
 public class SubRedPackage {
     private int parentId ;

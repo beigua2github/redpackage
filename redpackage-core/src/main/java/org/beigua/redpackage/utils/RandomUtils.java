@@ -4,7 +4,7 @@ package org.beigua.redpackage.utils;
 import java.util.Random;
 
 /**
- * Created by smzdm on 2017/7/31.
+ * Created by beigua on 2017/7/31.
  */
 public final class RandomUtils {
     private final static int VARIANCE_DEFAULT = 1;

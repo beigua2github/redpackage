@@ -1,7 +1,7 @@
 package org.beigua.redpackage.pre;
 
 /**
- * Created by smzdm on 2017/7/31.
+ * Created by beigua on 2017/7/31.
  */
 public class RedPackage {
     private String name;
