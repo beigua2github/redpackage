@@ -46,10 +46,6 @@ public class RedPackageConsumer implements Runnable {
 
         //quantity is zero ,return
         if (remainQuantity <= 0) {
-            return;
-        }
-
-        if (redPackage.getRemainQuantity().get() <= 0) {
             throw new RedPackageException("The redPackage is empty");
         }
 
@@ -84,7 +80,7 @@ public class RedPackageConsumer implements Runnable {
         }
 
         if (isGrab.get()) {
-            throw new RedPackageException("");
+            throw new RedPackageException();
         }
     }
 
