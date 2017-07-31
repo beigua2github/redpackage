@@ -1,5 +1,5 @@
 # redpackage
 
-pre 预生成红包方式
+pre 根据大小预先生成红包
 
-real 实时生成乐观锁机制
+real 实时计算红包大小
