@@ -25,7 +25,6 @@ public class RedPackageConsumer implements Runnable {
                 System.out.println(name + "抢到了!" + subRedPackage.getAmount() + "分钱!");
             } else {
                 System.out.println(name + "没抢到!");
-                System.exit(1);
             }
         } catch (RedPackageException r) {
 
